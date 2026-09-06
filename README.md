@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Han Jay</h1>
 
 <p align="center">
-  <img src="YOUR_ANIME_GIF_URL_HERE" width="850" alt="Anime Banner"/>
+  <img src="https://ani-github.github.io/animegifs/other/jumping.gif" width="850" alt="Anime Banner"/>
 </p>
 
 <p align="center">

@@ -107,6 +107,3 @@ Previously, I've worked as both a **Data Engineer Intern** and **Software Engine
   <i>Thanks for stopping by! 👋</i>
 </p>
 
-<p align="center">
-  <code>while(alive) { learn(); build(); repeat(); }</code>
-</p>

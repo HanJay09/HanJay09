@@ -100,7 +100,6 @@ Previously, I've worked as both a **Data Engineer Intern** and **Software Engine
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HanJay09&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
-
 ---
 
 <p align="center">

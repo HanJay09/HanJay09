@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Han Jay</h1>
+<h1 align="center">你好👋, Welcome to my profile!</h1>
 
 <p align="center">
-  <img src="https://ani-github.github.io/animegifs/other/jumping.gif" width="850" alt="Anime Banner"/>
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/raw/main/Live%20Wallpapers/sataro%20gojo.gif" width="850" alt="Anime Banner"/>
 </p>
 
 <p align="center">
-  <b>🎓 MSc Computer Science @ Queen Mary University of London</b>
-</p>
-
-<p align="center">
-  <i>Software Engineering · Web Development · Data · Machine Learning</i>
+  <i>Software Engineering · Web Development · Data Engineering · Cybersecurity · Machine Learning</i>
 </p>
 
 <p align="center">
@@ -22,45 +18,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Han Jay**, a Software Engineering graduate currently pursuing an **MSc in Computer Science at Queen Mary University of London**.
+I'm a Software Engineering graduate currently pursuing an **MSc in Computer Science at Queen Mary University of London**.
 
 My background spans software development, web applications, data engineering, and machine learning. I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects.
 
-Previously, I've worked as both a **Data Engineer Intern** and **Software Engineer Intern**, gaining experience with data workflows, APIs, web development, databases, and application development.
-
-```text
-🎓 MSc Computer Science @ QMUL
-💻 Software Engineering
-📊 Data & Machine Learning
-🌐 Web Development
-🌱 Always learning
-☕ Powered by coffee
-```
+Previously, I've worked as both a **Data Engineer Intern** and **Software Engineer Intern**, giving me experience with data workflows, APIs, web development, databases, and application development.
 
 ---
 
-## 🚀 Featured Project
-
-### 🕵️ Dark Patterns Detector
-
-My latest project — a web application focused on identifying **dark patterns and deceptive design practices** in websites.
-
-<p align="center">
-  <a href="https://github.com/HanJay09/dark-patterns">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HanJay09&repo=dark-patterns&theme=tokyonight&hide_border=true&border_radius=12" alt="Dark Patterns Detector"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HanJay09/dark-patterns">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://dark-patterns-detector.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
-
----
 
 ## 🧠 What I Work With
 
@@ -104,94 +69,13 @@ My latest project — a web application focused on identifying **dark patterns a
 
 ---
 
-## 💼 Experience
+## 🌍 Human Languages
 
-### 📊 Data Engineer Intern — equalOne Sdn Bhd
+* 🇬🇧 English
+* 🇨🇳 Mandarin Chinese (我会说中文。很高兴认识你！)
+* 🇲🇾 Bahasa Melayu (Salam, selamat datang ke profil saya!)
+* 🇭🇰 Cantonese (識聽廣東話，但係講得唔係咁好 😅)
 
-**Jan 2024 – Apr 2024**
-
-* Developed and optimized data workflows using **Alteryx**
-* Integrated data from multiple sources for analysis and reporting
-* Worked with the **Monday.com API** to extract and structure data
-* Performed sentiment analysis using Alteryx Intelligence Suite and external APIs
-* Worked with web scraping and social-media data
-
-### 💻 Software Engineer Intern — CTAPPS MSC Sdn Bhd
-
-**Oct 2022 – Dec 2022**
-
-* Contributed to frontend and backend development of an employee leave management portal
-* Worked with **PHP and Yii2**
-* Developed and managed the application's **MySQL database**
-* Used Visual Studio Code, Notepad++, and XAMPP
-
----
-
-## 🧪 Other Projects
-
-### 📈 Stock Price Prediction Using Deep Learning
-
-Developed deep-learning models for **NVIDIA (NVDA) stock-price prediction**, experimenting with **LSTM** and **CNN-LSTM** architectures.
-
-Technologies included:
-
-`Python` · `TensorFlow/Keras` · `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
-
----
-
-### 🛒 Web Scraping Platform for Competitive Pricing
-
-Developed a web-based platform for extracting product pricing and consumer insights from e-commerce platforms.
-
-The platform included:
-
-* 🔐 User authentication
-* 👤 Profile management
-* ⏰ Scraping task scheduling
-* 📊 Data dashboards
-* 📥 CSV & JSON data export
-
-**Stack:**
-
-`Next.js` · `Supabase` · `Express.js` · `Tailwind CSS` · `Scraping Bot API`
-
----
-
-## 🎓 Education
-
-**Queen Mary University of London**
-
-`MSc Computer Science` · 2025 – Present
-
----
-
-**Asia Pacific University**
-
-`BSc (Hons) Software Engineering` · 2023 – 2025
-
----
-
-**Asia Pacific University**
-
-`Diploma in ICT — Software Engineering` · 2020 – 2022
-
----
-
-## 🌍 Languages
-
-<p align="center">
-  🇬🇧 <b>English</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🇨🇳 <b>Mandarin Chinese</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🇲🇾 <b>Bahasa Melayu</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🇭🇰 <b>Cantonese</b>
-</p>
-
-<p align="center">
-  <i>English · Mandarin · Malay · Understandable Cantonese 😅</i>
-</p>
 
 ---
 
@@ -206,11 +90,6 @@ The platform included:
 ---
 
 ## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanJay09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanJay09&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HanJay09&theme=tokyonight&hide_border=true&border_radius=12" />

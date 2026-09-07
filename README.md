@@ -71,8 +71,8 @@ Previously, I've worked as both a **Data Engineer Intern** and **Software Engine
 
 ## 🌍 Human Languages
 
-* 🇬🇧 English
-* 🇨🇳 Mandarin Chinese (我会说中文。很高兴认识你！)
+* 🇬🇧 English 
+* 🇨🇳 Mandarin Chinese (我会说中文，很高兴认识你！)
 * 🇲🇾 Bahasa Melayu (Salam, selamat datang ke profil saya!)
 * 🇭🇰 Cantonese (識聽廣東話，但係講得唔係咁好 😅)
 
@@ -83,9 +83,7 @@ Previously, I've worked as both a **Data Engineer Intern** and **Software Engine
 
 * 🎓 Cisco CCNAv7
 * 📊 Alteryx Designer Core
-* ▲ Next.js Workshop
 * 🔐 ICTF Certification
-* ⛓️ Solana Hackfest Hackathon — Participant
 
 ---
 

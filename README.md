@@ -1,7 +1,7 @@
 <h1 align="center">你好👋, Welcome to my profile!</h1>
 
 <p align="center">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/raw/main/Live%20Wallpapers/sataro%20gojo.gif" width="850" alt="Anime Banner"/>
+  <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/refs/heads/main/Pixel-Art/snow.gif" width="850" alt="Anime Banner"/>
 </p>
 
 <p align="center">

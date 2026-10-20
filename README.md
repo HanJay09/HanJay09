@@ -22,7 +22,7 @@ I'm a Software Engineering graduate currently pursuing an **MSc in Computer Scie
 
 My background spans software development, cybersecurity, data engineering, and machine learning. I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects.
 
-Previously, I've worked as both a **Data Engineer Intern** and **Software Engineer Intern**, giving me experience with data workflows, APIs, web development, databases, and application development.
+Previously, I've worked as both a **Data Engineer Intern** and **Software Engineer Intern**, which gave me experience with data workflows, APIs, web development, databases, and application development.
 
 ---
 

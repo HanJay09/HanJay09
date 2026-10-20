@@ -20,7 +20,7 @@
 
 I'm a Software Engineering graduate currently pursuing an **MSc in Computer Science at Queen Mary University of London**.
 
-My background spans software development, web applications, data engineering, and machine learning. I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects.
+My background spans software development, cybersecurity, data engineering, and machine learning. I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects.
 
 Previously, I've worked as both a **Data Engineer Intern** and **Software Engineer Intern**, giving me experience with data workflows, APIs, web development, databases, and application development.
 
